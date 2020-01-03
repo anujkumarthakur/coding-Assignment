@@ -1,0 +1,21 @@
+Basically According to Data Structure 
+There are Three type of tree traversing
+
+Depend on your problem these tree are solve you problem or not and 
+if there only one tree is not solve your problem you can try to mixed these tree to solve Problem 
+
+if you want to try to solve tree problem you can put all tree data in 2D array use any rule
+there are mention three type of tree-rule
+
+1. INORDER-TREE
+	Inorder(left-child, root, right-child)
+
+2. PREORDER-TREE
+
+	Preorder(root, left-child, right-child) 
+
+3. POSTORDER-TREE
+
+	Postorder(left-child, right-child, root)
+
+
